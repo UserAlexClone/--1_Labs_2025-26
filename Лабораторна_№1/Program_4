@@ -41,4 +41,3 @@ for (i of list) {
 };
 
 console.log(hash.boolean, hash.string, hash.number, hash.null);
-console.log(hash.boolean, hash.string, hash.number, hash.null);
